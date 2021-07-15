@@ -2,7 +2,7 @@
 layout: cv
 title: Markus Mund's Resume
 ---
-
+<div id="webaddress">
 | <a href="https://www.linkedin.com/in/markusmund96/">LinkedIn</a>
 | <a href="https://github.com/mmarkus96/Mund-Resume">GitHub</a>
 |
@@ -52,7 +52,6 @@ Full-Time Volunteer Representative	`October 2015 - October 2017`
 	
 __Brigham Young University__ - Idaho	Rexburg, ID
 Finance B.S. - GPA: 3.9/4.0	`April 2019 - December 2021`
-</div>
 Economics Minor & Data Science Certificate
 -	Received full tuition Thomas E. Ricks scholarship, based on academic achievement
 -	Relevant Classes: Financial Analytics, Advanced Financial Management, Accounting, (Economic) Statistics, Spreadsheet Analysis, Python, SQL, Power BI, Tableau, R, Business Analytics
