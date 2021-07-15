@@ -63,6 +63,3 @@ Economics Minor & Data Science Certificate
 -	Harvard Excel (Jan 2020), Bloomberg Market Concepts (Feb 2020)
 -	German (native), English (near native), Ukrainian (fluent)
 
-<!-- ### Footer
-Last updated: May 2013 -->
-{"mode":"full","isActive":false}
